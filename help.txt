@@ -1,0 +1,22 @@
+Hello there user, this app is very easy to use. 
+
+Open Cams-> It is used to open the CCTV camera's of your store
+
+Create databases-> This will open a new window were you can create
+both the assigned databases. 
+(Note: If you are using the software for the first time, you must 
+create the databases)
+
+Remove databases-> This will open a new window were you can delete
+the databases.
+(Note: This option must only be use,when told by the software's 
+service staff)
+
+Analyser 1 -> This will allow you to filter and determine how
+many people have come into the store. 
+
+Analyser 2 -> This is used to determine how many people are present
+in a particular aisle.
+
+Help -> This opens, the help document which you are viewing now.
+
